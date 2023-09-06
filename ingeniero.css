@@ -1,0 +1,29 @@
+.star {
+    font-size: 24px;
+    color: gray;
+    cursor: pointer;
+  }
+  
+  .star.active {
+    color: gold;
+
+  }
+  .ujum {
+    font-size: 24px;
+    color: gray;
+    cursor: pointer;
+  }
+  
+  .ujum.active {
+    color: gold;
+  }
+  
+  .ujam {
+    font-size: 24px;
+    color: gray;
+    cursor: pointer;
+  }
+  
+  .ujam.active {
+    color: gold;
+}
